@@ -1,7 +1,7 @@
 FROM alpine:edge
 
-ARG AUUID="a9f7e10a-769a-4e2b-aab0-a7196f533d2d"
-ARG CADDYIndexPage="https://time.is/Japan"
+ARG AUUID="db733b76-31c3-4cfe-9964-f98bd0bc9dbf"
+ARG CADDYIndexPage="https://www.uuidgenerator.net/"
 ARG ParameterSSENCYPT="chacha20-ietf-poly1305"
 ARG PORT=8080
 
