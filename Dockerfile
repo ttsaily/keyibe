@@ -1,7 +1,7 @@
 FROM alpine:edge
 
-ARG AUUID="f01b8d17-76c2-489b-b3c4-5065c01a2b57"
-ARG CADDYIndexPage="https://github.com/sweetield/indexpage/blob/main/README.md"
+ARG AUUID="a9f7e10a-769a-4e2b-aab0-a7196f533d2d"
+ARG CADDYIndexPage="https://time.is/Japan"
 ARG ParameterSSENCYPT="chacha20-ietf-poly1305"
 ARG PORT=8080
 
